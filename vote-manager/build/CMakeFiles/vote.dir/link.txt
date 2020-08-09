@@ -1,0 +1,1 @@
+/usr/bin/c++   -g    CMakeFiles/vote.dir/vote.cpp.o  -o vote  -L/usr/lib/hiredis -rdynamic -lhiredis -Wl,-rpath,/usr/lib/hiredis 

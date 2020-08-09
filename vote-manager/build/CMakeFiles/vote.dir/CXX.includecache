@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/git/redis-in-action/vote-manager/vote.cpp
+stdio.h
+-
+stdlib.h
+-
+stddef.h
+-
+stdarg.h
+-
+string.h
+-
+assert.h
+-
+hiredis/hiredis.h
+-
+

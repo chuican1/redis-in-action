@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/root/git/redis-in-action/vote-manager/build",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/vote.dir/vote.cpp.o -c /root/git/redis-in-action/vote-manager/vote.cpp",
+  "file": "/root/git/redis-in-action/vote-manager/vote.cpp"
+}
+]
