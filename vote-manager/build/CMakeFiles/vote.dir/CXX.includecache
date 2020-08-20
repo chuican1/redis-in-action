@@ -7,6 +7,8 @@
 #IncludeRegexTransform: 
 
 /root/git/redis-in-action/vote-manager/vote.cpp
+iostream
+-
 stdio.h
 -
 stdlib.h
@@ -20,5 +22,9 @@ string.h
 assert.h
 -
 hiredis/hiredis.h
+-
+ctime
+-
+string
 -
 

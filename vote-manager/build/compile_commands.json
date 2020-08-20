@@ -1,7 +1,7 @@
 [
 {
   "directory": "/root/git/redis-in-action/vote-manager/build",
-  "command": "/usr/bin/c++    -g   -o CMakeFiles/vote.dir/vote.cpp.o -c /root/git/redis-in-action/vote-manager/vote.cpp",
+  "command": "/usr/bin/c++    -g   -std=c++11 -o CMakeFiles/vote.dir/vote.cpp.o -c /root/git/redis-in-action/vote-manager/vote.cpp",
   "file": "/root/git/redis-in-action/vote-manager/vote.cpp"
 }
 ]
